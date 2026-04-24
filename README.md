@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Juan Arcos
+📍 **Ambato, Ecuador** 🇪🇨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Juan+Arcos;Software+Engineering+Student;Game+Developer+Enthusiast;Always+Learning+New+Things" />
 </p>
-
-💻 **Software Engineering Student**
-🚀 Passionate about software development and videogames
-🧠 Constantly learning and improving my skills
 
 ---
 
@@ -45,17 +42,17 @@ I adapt quickly to team environments, enjoy solving problems, and strive to make
 
 ## 📌 Projects
 
-🔹 **Hardware Store Management System**
-[https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria.git](https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria.git)
+### 🔧 Sistema de Facturación para una Ferretería
+[![Proceso-Compra-Ferreteria](https://github-readme-stats.vercel.app/api/pin/?username=Sebastianyiyi&repo=Proceso-Compra-Ferreteria&theme=github_dark&show_owner=true)](https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria)
 
-🔹 **E-Commerce System**
-[https://github.com/ErickAloy871/hola-marketplace-mockup.git](https://github.com/ErickAloy871/hola-marketplace-mockup.git)
+### 🛒 E-Commerce estilo Marketplace
+[![hola-marketplace-mockup](https://github-readme-stats.vercel.app/api/pin/?username=ErickAloy871&repo=hola-marketplace-mockup&theme=github_dark&show_owner=true)](https://github.com/ErickAloy871/hola-marketplace-mockup)
 
-🔹 **Cinema Ticket System**
-[https://github.com/Sebastianyiyi/CinEC.git](https://github.com/Sebastianyiyi/CinEC.git)
+### 🎬 Cinema Ticket System
+[![CinEC](https://github-readme-stats.vercel.app/api/pin/?username=Sebastianyiyi&repo=CinEC&theme=github_dark&show_owner=true)](https://github.com/Sebastianyiyi/CinEC)
 
-🔹 **Mini Games Web Page**
-[https://github.com/VladAlz/Plants_vs_Zombies_Cards.git](https://github.com/VladAlz/Plants_vs_Zombies_Cards.git)
+### 🎮 Mini Games Web Page
+[![Plants_vs_Zombies_Cards](https://github-readme-stats.vercel.app/api/pin/?username=VladAlz&repo=Plants_vs_Zombies_Cards&theme=github_dark&show_owner=true)](https://github.com/VladAlz/Plants_vs_Zombies_Cards)
 
 ---
 
