@@ -12,10 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Currently in 4th semester of Software Engineering
-* 💡 Interested in **game development**
-* 🗄️ Experience with **E-Commerce, inventory systems, and ticket sales systems**
-* 🎮 Currently developing a **Roguelike game in Python**
+I'm a Software Engineering student passionate about programming and game development. I enjoy learning new technologies and continuously improving my skills through hands-on projects.
+
+My main focus is web development and creating video games, with the goal of working in large tech or game development companies. I have a strong attention to visual detail, always aiming to build clean, attractive, and user-friendly interfaces.
+
+I adapt quickly to team environments, enjoy solving problems, and strive to make programming both productive and fun. I'm always looking for new challenges that help me grow as a developer.
 
 ---
 
@@ -42,7 +43,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 🔹 **Hardware Store Management System**
 [https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria.git](https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria.git)
@@ -68,7 +69,7 @@
 ## 🌱 Currently Learning
 
 * 📌 Web development
-* 📌 Object-Oriented Programming in Java
+* 📌 Agile methodologies (Scrum, Kanban)
 * 📌 Game development with Unity
 
 ---
