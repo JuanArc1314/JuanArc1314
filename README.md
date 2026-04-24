@@ -1,23 +1,27 @@
-# 👋 ¡Hola! Soy Juan Arcos
+# 👋 Hi, I'm Juan Arcos
 
-💻 **Estudiante de Ingeniería en Software**
-🚀 Apasionado por el desarrollo de software y los videojuegos
-🧠 En constante aprendizaje sobre programación y tecnología
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Juan+Arcos;Software+Engineering+Student;Game+Developer+Enthusiast;Always+Learning+New+Things" />
+</p>
 
----
-
-## 🧑‍💻 Sobre mí
-
-* 🎓 Actualmente en cuarto semestre de Ingeniería en Software
-* 💡 Interesado en el desarrollo de videojuegos
-* 🗄️ Experiencia con proyectos de E-Commerce, inventarios y venta de boletos de cine
-* 🎮 Actualmente desarrollando un **Roguelike en Python**
+💻 **Software Engineering Student**
+🚀 Passionate about software development and videogames
+🧠 Constantly learning and improving my skills
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧑‍💻 About Me
 
-### 👨‍💻 Lenguajes
+* 🎓 Currently in 4th semester of Software Engineering
+* 💡 Interested in **game development**
+* 🗄️ Experience with **E-Commerce, inventory systems, and ticket sales systems**
+* 🎮 Currently developing a **Roguelike game in Python**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -28,7 +32,7 @@
 
 ---
 
-### 🧰 Herramientas
+### 🧰 Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
@@ -38,50 +42,50 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-🔹 **Sistema de compra y venta de ferretería**
+🔹 **Hardware Store Management System**
 [https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria.git](https://github.com/Sebastianyiyi/Proceso-Compra-Ferreteria.git)
 
-🔹 **Sistema de E-Commerce**
+🔹 **E-Commerce System**
 [https://github.com/ErickAloy871/hola-marketplace-mockup.git](https://github.com/ErickAloy871/hola-marketplace-mockup.git)
 
-🔹 **Sistema de compra de boletos de cine**
+🔹 **Cinema Ticket System**
 [https://github.com/Sebastianyiyi/CinEC.git](https://github.com/Sebastianyiyi/CinEC.git)
 
-🔹 **Página con minijuegos**
+🔹 **Mini Games Web Page**
 [https://github.com/VladAlz/Plants_vs_Zombies_Cards.git](https://github.com/VladAlz/Plants_vs_Zombies_Cards.git)
 
 ---
 
-## 📈 Estadísticas
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanArc1314\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArc1314\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌱 Actualmente aprendiendo
-
-* 📌 Desarrollo web
-* 📌 Programación en Java (POO)
-* 📌 Desarrollo de videojuegos en Unity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🎯 Objetivos
+## 🌱 Currently Learning
 
-* 💡 Mejorar mis habilidades como desarrollador
-* 🚀 Crear proyectos más complejos
-* 🌍 Contribuir a proyectos reales, especialmente en videojuegos
+* 📌 Web development
+* 📌 Object-Oriented Programming in Java
+* 📌 Game development with Unity
 
 ---
 
-## 📫 Contacto
+## 🎯 Goals
+
+* 💡 Improve as a developer
+* 🚀 Build more complex projects
+* 🌍 Contribute to real-world projects, especially in gaming
+
+---
+
+## 📫 Contact
 
 📧 [arcosjuan123b@gmail.com](mailto:arcosjuan123b@gmail.com)
 
 ---
 
-✨ *“Siempre aprendiendo, siempre mejorando”*
+✨ *"Always learning, always improving"*
